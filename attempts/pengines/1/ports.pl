@@ -1,0 +1,11 @@
+hasPenginePort(larkc,'9880').
+hasPenginePort(flp,'9881').
+hasPenginePort(kbfs,'9882').
+hasPenginePort(eLog2,'9882').
+hasPenginePort(gourmet,'9883').
+hasPenginePort(dms,'9884').
+hasPenginePort(spse2,'9885').
+hasPenginePort(thePlanner,'9886').
+hasPenginePort(testAgent1,'9888').
+hasPenginePort(testAgent2,'9889').
+hasPenginePort(nomicMU,'9890').
